@@ -1,0 +1,7 @@
+##,,,,,,,,,
+## Replace the placeholder for startDate and endDate with appropriate values.,,,,,,,,,
+## startDate and endDate values should adhere to a YYYYMMDD format.,,,,,,,,,
+## Adjust other data as needed.,,,,,,,,,
+##,,,,,,,,,
+startDate,endDate,startTime,endTime,holdAccount,holdCustomer,holdGroup,holdTrader,ordClearingHouse,r_factor
+20200609,20200609,,,,,Flow,,,
